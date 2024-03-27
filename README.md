@@ -8,6 +8,7 @@ Below is a diagram of how to connect the I2C to the Arduino.
 
 
 ***insert immage. if it not apear - i don't insert it :( ***
+![immage](https://github.com/inhat-d/MyNameIs-ARDUINO/blob/main/ConnectScheme.PNG)
 
 
 IMPORTANT:
