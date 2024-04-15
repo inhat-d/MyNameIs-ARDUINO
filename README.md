@@ -2,7 +2,7 @@
 
 My not first project on arduino, but first on GutHub
 
-Outputting the texture song Eminem - My Name Is to LCD Diplay
+Outputting the text of the Eminem's song - My Name Is to LCD Diplay
  via I2C module (or adapter... it doesn't matter) using Arduino. 
 Below is a diagram of how to connect the I2C to the Arduino.
 
